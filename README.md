@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preethi ST</h1>
-<h3 align="center">Passionate Web Developer| mastering new skills</h3>
+<h3 align="center">A passionate Web developer from India.</h3>
 
 - 🌱 I’m currently learning **MERN Stack in GUVI**
 
