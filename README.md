@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack in GUVI**
 
-- 💬 Ask me about **JavaScrit, HTML5**
+- 💬 Ask me about **JavaScript, HTML5**
 
 - 📫 How to reach me **preethist@gmail.com**
 
