@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preethi</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
-- 🌱 I’m currently learning **MERN Stack in GUVI**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **JavaScript, HTML5**
+- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **preethist@gmail.com**
+- 📫 How to reach me **preethist01@gmail.com**
 
 - ⚡ Fun fact **Whatever you do give it 100%, unless you're donating blood**
 
